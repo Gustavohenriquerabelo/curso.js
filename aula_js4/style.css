@@ -1,0 +1,58 @@
+body
+{
+    background: rgb(14, 14, 14)
+}
+
+header
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    background: rgb(71, 71, 71);
+    text-align: center;
+    border-radius: 10pt;
+    font: normal 16pt arial;
+    color: rgb(241, 228, 228);
+    box-shadow: 5pt 5pt 7pt black;
+}
+
+footer
+{
+    text-align: center;
+    color: white;
+    font: normal 12pt arial;
+}
+
+section
+{
+    background: rgb(56, 56, 56);
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 410px;
+    padding-left: 15px;
+    padding-right: 10px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    border-radius: 10pt;
+    font: normal 15pt arial;
+    text-align: center;
+}
+div
+{
+    text-align: left;
+    padding-left: 50px;
+    
+}
+
+input
+{
+    border-radius: 5pt;
+    text-align: center;
+}
+input#btn
+{
+    font: normal 15pt arial;
+}

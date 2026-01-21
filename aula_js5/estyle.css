@@ -1,0 +1,73 @@
+body
+{
+    background: rgb(27, 27, 27);
+}
+section#bar
+{
+    background: white;
+    width: 45px;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 880px;
+    padding-top: 50px;
+    padding-left: 7px;
+    padding-right: 8px;
+    border-radius: 7px;
+    text-align: center;
+}
+
+section#adiciona
+{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: black;
+    background: rgb(184, 183, 183);
+    text-align: right;
+    padding-left: 7px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 15px;
+    border-radius: 10pt;
+    font: normal 15pt arial;
+    visibility:hidden
+}
+label
+{
+    float: inline-start;
+    padding-left: 10px;
+}
+div
+{
+    text-align: center;
+}
+div#d
+{
+    text-align: center;
+    
+}
+input
+{
+    border-radius: 6px
+}
+select
+{
+    background: rgb(90, 89, 89);
+    border: rgba(235, 235, 235, 0);
+    border-radius: 5px;
+    visibility: hidden;
+    text-align: center;
+    display: inline;
+    color: white;
+}
+input#btn
+{
+    visibility: hidden;
+}
+div#rp
+{
+    visibility: hidden;
+   
+}

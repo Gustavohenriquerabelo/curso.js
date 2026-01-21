@@ -1,0 +1,76 @@
+body
+{
+    background: rgba(49, 126, 49, 0.733);
+}
+
+header
+{
+    text-align: center;
+    font: normal 18pt arial;
+    color: white;
+    background: rgb(58, 52, 52);
+    border-radius: 10pt;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    box-shadow: 6px 7px 8px rgba(8, 8, 8, 0.767)
+}
+
+section 
+{
+    padding-top: 20px;
+    padding-left: 14px;
+    padding-right: auto;
+    padding-bottom: 20px;
+    background: rgb(45, 45, 54);
+    color: white;
+    border-radius: 20px;
+    width: 450px;
+    font: normal 17pt arial;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.856);
+    
+}
+
+footer
+{
+    text-align: center;
+    font: normal 13pt arial;
+}
+
+div
+{
+    text-align: right;
+    padding-right: 38px;
+}
+
+label
+{
+    float: inline-start;
+    font: normal 19pt arial;
+    padding-left: 39pt;
+}
+
+label#pulo
+{
+    padding-left: 0pt;
+}
+
+input#btn
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    font: normal 24pt arial;
+    border-radius: 10pt;
+    box-shadow: 5pt 5pt 10pt;
+}
+
+div#res
+{
+    text-align: center;
+    padding-right: 0pt;
+}

@@ -1,0 +1,49 @@
+body
+{
+    background: #659ab9d5;
+    font: normal 17pt arial;
+}
+header
+{
+    font: 16pt arial;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: auto;
+    background: #275670c0;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+}
+div
+{
+        text-align: center;
+}
+b
+{
+    color: rgb(238, 238, 238);
+}
+
+footer
+{
+    font: normal 13pt arial;
+    text-align: center;
+}
+input
+{
+    text-align: center;
+    width: auto;
+    font: normal 21pt arial;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px black;
+    
+}
+input#texti
+{
+    width: 15px;
+    background: rgb(53, 53, 53);
+    color: rgb(53, 53, 53);
+    
+}
+img
+{
+   padding: 0px;
+}
